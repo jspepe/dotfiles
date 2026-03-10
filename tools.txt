@@ -1,0 +1,35 @@
+# Core CLI tools
+git
+neovim
+tmux
+curl
+wget
+unzip
+stow
+
+# File navigation
+fd
+ripgrep
+fzf
+tree
+eza
+bat
+
+# System tools
+htop
+btop
+fastfetch
+
+# Development
+nodejs
+npm
+python
+pip
+
+# Neovim dependencies
+gcc
+make
+cmake
+
+# Optional dev tools
+lazygit
